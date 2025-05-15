@@ -36,7 +36,7 @@ The backend will be built using Python with Flask or FastAPI for modular and eff
 
 The frontend will be a responsive web application built with HTML, CSS, and JavaScript. The interface will prioritize clarity and accessibility, designed for fast-paced environments and non-technical users. This initial release will form the basis for future iterations. The development process is outlined in Figure 1, which maps responsibilities and milestones using a swimlane diagram.
 
-| ![]([https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg](https://github.com/devanshk220304/Project-Management/blob/main/FINAL%20PAPERS/IS%20340%20-%20Workflow%20Diagram%20(2).png)) |  
+| ![](https://github.com/devanshk220304/Project-Management/blob/main/FINAL%20PAPERS/IS%20340%20-%20Workflow%20Diagram%20(2).png)|  
 | :--: |  
 | **Figure 1.** Swimlane diagram showing task responsibilities and timeline for Platemate’s MVP development. | 
 
