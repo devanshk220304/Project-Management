@@ -29,4 +29,3 @@ Andersen, G. (2025, February 3). Build an effective volunteer portal for Non-Pro
 DigitalOcean. (2023, August 2). What is technical debt: Common causes & how to reduce it. https://www.digitalocean.com/resources/articles/what-is-technical-debt 
 Indeed Editorial Team. (2025, March 26). What is project sustainability? A definitive guide | indeed.com. https://www.indeed.com/career-advice/career-development/project-sustainability 
 
-
